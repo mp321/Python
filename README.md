@@ -1,1 +1,1 @@
-# Simple python examples created while pracitcing python syntax/capabilities
+# Simple python examples created while practicing python syntax/capabilities
